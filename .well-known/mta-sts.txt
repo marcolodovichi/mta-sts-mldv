@@ -1,4 +1,0 @@
-version: STSv1
-mode: testing
-mx: mx.proxiedmail.com
-max_age: 86400
